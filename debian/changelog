@@ -1,3 +1,9 @@
+vyatta-cfg-dhcp-relay (0.11.0+osvx1+projectx1) trusty; urgency=medium
+
+  * Fix .gitignore
+
+ -- Valentin Yakovenkov <yakovenkov@gmail.com>  Sun, 01 Jun 2014 20:35:00 +0400
+
 vyatta-cfg-dhcp-relay (0.11.0+vyos1+helium1) unstable; urgency=low
 
   * New branch
